@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"111z");
     NSLog(@"1.0版本");
+    NSLog(@"1.2版本");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
