@@ -17,11 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"111z");
-    NSLog(@"1.0版本");
-    NSLog(@"1.2版本");
-    NSLog(@"闫申");
-    NSLog(@"jiang");
-    NSLog(@"jiang222");
+   
+    NSLog(@"3333");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
