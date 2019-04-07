@@ -17,8 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"111z");
-   
+    NSLog(@"2222");
     NSLog(@"3333");
+    NSLog(@"5555");
+    NSLog(@"6666");
+    NSLog(@"7777");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
