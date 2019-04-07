@@ -20,7 +20,7 @@
     NSLog(@"1.0版本");
     NSLog(@"1.2版本");
     NSLog(@"jiang");
-    NSLog(@"jiang222");
+    NSLog(@"4444");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
