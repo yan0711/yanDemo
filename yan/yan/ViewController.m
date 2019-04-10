@@ -29,6 +29,7 @@
     NSLog(@"jiajia");
     NSLog(@"ya");
     NSLog(@"shen");
+    NSLog(@"jiang");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
